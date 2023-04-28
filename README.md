@@ -5,9 +5,15 @@
 ## 일정 (Schedule)
 프로젝트 전체 기간 (10일+) : 4월 10일 (월) 10:00 ~ 4월 20일 (목) 19:00
 
+## 팀원 (가나다순)
+|박경택|박지은|송인서|윤지환|
+|:---:|:---:|:---:|:---:|
+|<img src="https://avatars.githubusercontent.com/u/97149910?v=4" width="120" height="120">|<img src="https://avatars.githubusercontent.com/u/97666193?v=4" width="120" height="120">|<img src="https://avatars.githubusercontent.com/u/41552919?v=4" width="120" height="120">|<img src="https://avatars.githubusercontent.com/u/37128004?v=4" width="120" height="120">|
+|[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afterthougt@gmail.com)](mailto:afterthougt@gmail.com)|[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imhappyhill@gmail.com)](mailto:imhappyhill@gmail.com)|[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songinseo0910@gmail.com)](mailto:songinseo0910@gmail.com)|[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjh091500@naver.com)](mailto:yjh091500@naver.com)|
+|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/afterthougt)](https://github.com/afterthougt)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/iamzieun)](https://github.com/iamzieun)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/fortunetiger)](https://github.com/fortunetiger)|[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/ohilikeit)](https://github.com/ohilikeit)|
+
 ## 프로젝트 구조 (Project Structure)
 <img src="https://user-images.githubusercontent.com/37128004/233752744-9becc593-3457-4d00-bb6c-79a0423edcdc.png" width="700" height="500"/>
-
 
 ## 데이터 (Data)
 - 총 데이터 개수 : 10,974 문장 쌍
